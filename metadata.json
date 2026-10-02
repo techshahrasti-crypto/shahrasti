@@ -1,0 +1,6 @@
+{
+  "name": "উপজেলা কর্মী ও পেশাজীবী ডিরেক্টরি",
+  "description": "উপজেলা ভিত্তিক সকল পেশার দক্ষ কর্মী ও কারিগরদের যাচাইকৃত ডাটাবেজ। ছবি, অভিজ্ঞতা ও রেটিং দেখে সরাসরি কাজে ডাকুন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
